@@ -1,8 +1,5 @@
 # Microsoft Campus Club - Sathyabama Institute of Science and Technology
 
-[![HitCount](http://hits.dwyl.io/Microsoft-Club-SIST/Microsoft-Club-SISTgithubio.svg)](http://hits.dwyl.io/Microsoft-Club-SIST/Microsoft-Club-SISTgithubio)
-
-
 MICROSOFT CAMPUS CLUB IS A PLATFORM FOR THE STUDENTS TO PITCH THEIR IDEAS AND SHAPE THEM TO EMBARK ON THEIR JOURNEY OF TECHNOLOGY.
 
 ## Contribute to the Community
@@ -30,6 +27,5 @@ git add .
 git commit -m [Add your Commit Message]
 git push origin master
 ```
-5. Find the option for making a Pull Request and submit one. Remember to follow the [Contributing](https://github.com/Microsoft-Club-SIST/Microsoft-Club-SIST.github.io/blob/master/CONTRIBUTING.md) guidelines.
+5. Find the option for making a Pull Request and submit one. Remember to follow the[Contributing](https://github.com/Microsoft-Club-SIST/Microsoft-Club-SIST.github.io/blob/master/CONTRIBUTING.md) guidelines.
 6. Congratulations! You have made a Pull Request which will be reviewed and submitted :smiley:
-
